@@ -1,4 +1,6 @@
-// Source: https://usaco.guide/general/io
+// CSES Problem Set
+// Road Reparation
+// https://cses.fi/problemset/task/1675/
 
 #include <bits/stdc++.h>
 using namespace std;
